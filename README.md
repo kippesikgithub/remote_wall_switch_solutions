@@ -11,3 +11,4 @@ Solutions on mounting Remote switches on the wall
 
 - installed in existing Jung AS5XX 
 - 3d Print https://www.thingiverse.com/thing:4799316
+https://www.thingiverse.com/thing:1997705
